@@ -1,0 +1,457 @@
+/*进入*/
+.enter {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	/*background-color: red;*/
+	margin-left: 0px;
+	margin-top: 0px;
+	background-image: url("../img/1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.enter div {
+
+}
+.entertitle {
+	font-size: 60px;
+	font-family: Segoe Script;
+	color: white;
+	font-weight: 800;
+	position: fixed;
+	left: 25%;
+	top: 40%;
+}
+.none {
+	display: none;
+}
+/*alltop*/
+#alltop {
+	width: 700px;
+	height: 60px;
+	margin: 0 auto;
+	/*background-color: red;*/
+}
+.alltopword {
+	display: block;
+	color: white;
+	font-size: 30px;
+	font-family: Segoe Script;
+	margin-top: 5px;
+	margin-left: 50px;
+}
+/*all*/
+#all {
+	width: 800px;
+	height:3400px;
+	/*background-color: red;*/
+	margin: 0 auto;
+}
+.top {
+	width: 800px;
+	height: 500px;
+	/*background-color: blue;*/
+	background-image: url("../img/2.jpeg");
+}
+.displayb {
+	display: none;
+}
+.display {
+	width: 100%;
+	height: 80px;
+	background-color: #001A2F;
+	position: fixed;
+	top: 0;
+	z-index:19999;
+	display: block;
+	opacity: 0;
+}
+.displayc {
+	opacity: 1;
+}
+.tt {
+	width: 1000px;
+	/*background-color: blues;*/
+
+	height: 50px;
+	margin-left: 200px;
+	margin-top: -35px;
+}
+.t {
+	text-decoration: none;
+	float: left;
+	color: white;
+	font-family: Tahoma;
+	font-size: 30px;
+	margin-left: 150px;
+}
+.mask {
+	background-color: #001A2F;
+	opacity: 0.6;
+	width: 800px;
+	height: 500px;
+}
+.masktop {
+	width: 800px;
+	height: 100px;
+	/*background-color: red;*/
+	margin: 0 auto;
+}
+.boxone {
+	display: block;
+	width: 60px;
+	height: 60px;
+	border: 8px solid #005B84;
+	margin-left: 10px;
+}
+.boxa {
+	text-decoration: none;
+}
+.big {
+	display: block;
+	color: white;
+	font-family: Tahoma;
+	font-size: 45px;
+	margin-top: 2px;
+	margin-left: 18px;
+}
+.little {
+	display: block;
+	color: white;
+	font-family: Tahoma;
+	font-size: 30px;
+
+	margin-top: -50px;
+	margin-left: 90px;
+}
+.toptitle {
+	width: 600px;
+	height: 50px;
+	margin-left: 200px;
+	margin-top: -35px;
+	/*background-color: red;*/
+}
+.title {
+	text-decoration: none;
+	float: left;
+	color: white;
+	font-family: Tahoma;
+	font-size: 30px;
+	margin-left: 48px;
+}
+.ta {
+	color: #244F69;
+}
+.topcon {
+	width: 650px;
+	height: 350px;
+	margin-left: 80px;
+	margin-top: 50px;
+	background-color: black;
+}
+.pic {
+	display: block;
+	margin-left: 500px;
+	position: relative;
+	top: 70px;
+	left: -90px;
+	border-radius: 30px;
+	/*opacity: 0.5;*/
+}
+.boxthree {
+	width: 200px;
+	height: 200px;
+	background-color: #001A2F;
+	opacity: 0.2;
+	margin-left: 410px;
+	margin-top: -130px;
+}
+.introduce {
+	/*background-color: blue;*/
+	width: 360px;
+	height: 300px;
+	margin-left: 40px;
+	margin-top: -240px;
+}
+.boxtwo {
+	width: 60px;
+	height: 40px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	background-color:#204B65;
+	margin-left: 0px;
+
+}
+.h1word {
+	color: white;
+	font-size: 18px;
+	margin-top: 0;
+}
+.topcontent {
+	width: 360px;
+	height: 180px;
+	/*background-color: red;*/
+	margin-top: 25px;
+	margin-left: -40px;
+}
+.topul {
+	width: 120px;
+	height: 150px;
+	/*border: 1px solid white;*/
+	float: left;
+	margin-left: 0;
+}
+.topli {
+	width: 80px;
+	height: 30px;
+	display: inline-block;
+	color: white;
+
+}
+/*about*/
+.about {
+	width: 800px;
+	height: 600px;
+	background-color: #0C3050;
+}
+.abword {
+	color: white;
+	font-weight: 800;
+	margin-left: 280px;
+	font-size: 40px;
+	font-family: Segoe Script;
+}
+.change {
+	width: 700px;
+	height: 500px;
+	background-color: #001A2F;
+	margin-left: 50px;
+}
+#cha {
+	
+	color: white;
+	font-size: 70px;
+	font-weight: 800;
+	margin-left: 200px;
+	position: relative;
+	top: 180px;
+	left: -30px;
+}
+#chb {
+	color: white;
+	font-size: 70px;
+	font-weight: 800;
+	margin-left: 200px;
+	position: relative;
+	top: 180px;
+	left: 80px;
+}
+#chc {
+
+	color: white;
+	font-size: 70px;
+	font-weight: 800;
+	margin-left: 200px;
+	position: relative;
+	top: 180px;
+	left: -30px;
+}
+#picturea,#pictureb,#picturec,#pictured,#picturee,
+#picturef {
+	margin-top: 60px;
+	margin-left: 50px;
+}
+.love {
+	background-color: white;
+	width: 740px;
+	height: 1000px;
+	border: 30px solid #0C3050;
+}
+.boxfour {
+	width: 120px;
+	height: 50px;
+	border-bottom-left-radius: 60px;
+	border-bottom-right-radius: 60px;
+	background-color: #001A2F;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.boxfourword {
+	display: block;
+	color: white;
+	font-family: Tahoma; 
+	font-size: 20px;
+	font-weight: 800;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+.fan {
+	width: 400px;
+	height: 35px;
+	/*background-color: red;*/
+	margin-left: 400px;
+	margin-top: -30px;
+}
+.fanword {
+	display: block;
+	font-size: 30px;
+	color: #001A2F;
+	font-family: Segoe Script;
+
+}
+.year {
+	width: 100px;
+	height: 30px;
+	background-color: #001A2F;
+	margin-left: 30px;
+	margin-top: 120px;
+	border-radius: 20px;
+}
+.yearword {
+	display: block;
+	color: white;
+	/*font-family: Times New Roman;*/
+	font-weight: 800;
+	font-size: 20px;
+	margin-left: 26px;
+	
+}
+.jacksona {
+	position: relative;
+	/*float: bottom;*/
+	top: -700px;
+	left: 173px;
+	border: 1px solid #001A2F;
+}
+.jacksonb {
+	position: relative;
+	/*float: bottom;*/
+	top: -530px;
+	left: -34px;
+	border: 1px solid #001A2F;
+}
+.jacksonc {
+	position: relative;
+	/*float: bottom;*/
+	top: -370px;
+	left: -240px;
+	border: 1px solid #001A2F;
+}
+.jacksond {
+	position: relative;
+	/*float: bottom;*/
+	top: -360px;
+	left: 173px;
+	border: 1px solid #001A2F;
+}
+.jacksone {
+	position: relative;
+	/*float: bottom;*/
+	top: -200px;
+	left: -34px;
+	border: 1px solid #001A2F;
+}
+.loveall {
+	/*background-color: red;*/
+	width: 280px;
+	height: 1000px;
+	margin-left: 450px;
+	margin-top: -1090px;
+}
+.allsanjiao {
+	width: 45px;
+	height: 1000px;
+	/*background-color: red;*/
+	margin-left: 410px;
+	margin-top: -830px;
+}
+.sanjiao {
+	width: 0px;
+	height: 0px;
+	/*background-color: green;*/
+	margin-top: 110px;
+	border:22.5px solid;
+	border-left-color: white; 
+    border-right-color: #001A2F;  
+    border-bottom-color:white; 
+    border-top-color:white;  
+}
+.lovecon {
+	width: 250px;
+	height: 125px;
+	background-color: #001A2F;
+	margin-left: 0px;
+	margin-top: 30px;
+	padding-top: 5px;
+}
+.loveconword {
+	color: white;
+	font-family: Segoe Script;
+	font-size: 20px;
+}
+.ex {
+	background-color: white;
+	width: 800px;
+	height: 1350px;
+	background-image: url('../img/10.jpg');
+}
+.circle {
+	width: 80px;
+	height: 50px;
+	background-color: #001A2F;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+	float: left;
+	margin-left: 0;
+	margin-top: 0;
+}
+.lovetit {
+	width: 600px;
+	height: 40px;
+	background-color: #001A2F;
+	margin-left: 100px;
+	margin-top: -28px;
+}
+.bigtit {
+	font-family: Tahoma;
+	font-size: 30px;
+	font-weight: 800;
+	color: white;
+	
+}
+.littit {
+	font-family: Segoe Script;
+	font-size: 20px;
+	color: white;	
+	margin-left: 80px;
+}
+.draw1 {
+	opacity: 0.8;
+}
+.draw {
+	width: 500px;
+	height: 200px;
+	margin-left: 300px;
+	background-color: white;
+	opacity: 0.4;
+	border: 2px solid #001A2F;
+}
+.dance {
+	width: 500px;
+	height: 200px;
+	margin-left: 0px;
+	background-color: white;
+	opacity: 0.4;
+	border: 2px solid #001A2F;
+}
+.word {
+	color: #001A2F;
+	font-family: Segoe Script;
+	font-size: 20px; 
+}
+.none {
+	display: none;
+}
+#none {
+	display: none;
+}
